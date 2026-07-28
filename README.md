@@ -12,7 +12,7 @@ A design-first ChatGPT Skill for reviewing and specifying interfaces with curren
 
 ## Install
 
-Package the repository with the official ChatGPT Skill tooling, or download the `skill.zip` artifact produced by the repository workflow, then upload it to ChatGPT Skills.
+Clone or download this repository, package the skill directory with the official ChatGPT Skill tooling, and upload the resulting `skill.zip` to ChatGPT Skills.
 
 ## Structure
 
