@@ -1,0 +1,4 @@
+interface:
+  display_name: "Apple Interface Design Reviewer"
+  short_description: "Apple-guided UI, UX writing, and REI brand reviews"
+  brand_color: "#0E3D8A"
