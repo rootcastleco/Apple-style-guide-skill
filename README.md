@@ -1,6 +1,6 @@
 # Apple Interface Design Reviewer
 
-A design-first ChatGPT Skill for reviewing and specifying interfaces with current Apple Style Guide and Human Interface Guidelines principles, plus an optional Rootcastle Engineering & Innovation (REI) brand layer.
+A design-first Skill for reviewing and specifying interfaces with current Apple Style Guide and Human Interface Guidelines principles, plus an optional Rootcastle Engineering & Innovation (REI) brand layer.
 
 ## What it does
 
